@@ -1,0 +1,32 @@
+    {
+    "name": "first-electron-app",
+    "version": "1.0.1",
+    "description": "electron app demo",
+    "main": "./src/main.js",
+    "scripts": {
+        "start": "electron .",
+        "start-node": "node ."
+    },
+    "bin": {
+        "dev": "dev",
+        "app": "app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xgqfrms/electron-app.git"
+    },
+    "keywords": [
+        "electron",
+        "desktop",
+        "app",
+        "js",
+        "web",
+        "node.js"
+    ],
+    "author": "xgqfrms",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xgqfrms/electron-app/issues"
+    },
+    "homepage": "https://github.com/xgqfrms/electron-app#readme"
+    }
